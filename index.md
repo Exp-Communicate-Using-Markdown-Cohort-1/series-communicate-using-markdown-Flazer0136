@@ -7,7 +7,7 @@ My first markdown heading
 
 # .3 Adding Code
 
-```
+```python
 print("I'm a piece of code.")
 ```
 # .4 Adding Task List
